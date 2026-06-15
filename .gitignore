@@ -1,0 +1,28 @@
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Power BI temp files
+*.pbix.bak
+*.pbix.tmp
+~*.pbix
+
+# Excel / temp Office files
+~$*.xlsx
+~$*.xls
+*.xlk
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
